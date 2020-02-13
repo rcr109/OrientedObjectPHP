@@ -18,7 +18,7 @@ class Civic implements Veiculo{
         echo 'o veículo está a '.$valor.' por hora.<br><br>';
     }
 
-    public function frear($valor){
+    public function frenar($valor){
         echo 'o veículo está a '.$valor.' por hora.<br><br>';
     }
 
